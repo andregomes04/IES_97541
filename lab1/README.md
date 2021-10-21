@@ -4,7 +4,7 @@ O ciclo de vida 'DEFAULT' lida com a implementação do projeto, o ciclo de vida
 #B)
 Não, deve-se dar RUN usando a comand line ou o IDE, não com o Maven em si;
 #C)
-git pull // fazer as alterações necessárias // git commit // git push
+git pull // fazer as alterações necessárias // git add . // git commit // git push
 #D)
 Caso as alterações/implementações feitas forem várias, ir fazendo vários commits com base no que foi feito; manter os comentários simples ajuda na compreensão, ex: "bug X fixed" ; "added log form"
 #E)
